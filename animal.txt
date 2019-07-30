@@ -1,9 +1,2 @@
-lion
-cat
-dog
-tiger
-wolf
-snake 
-shamoor
-
-
+fox
+elephant
