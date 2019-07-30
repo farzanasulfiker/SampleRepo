@@ -3,4 +3,7 @@ cat
 dog
 tiger
 wolf
+snake 
+shamoor
+
 
