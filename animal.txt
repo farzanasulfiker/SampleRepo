@@ -1,2 +1,4 @@
 fox
 elephant
+dog 
+cat
