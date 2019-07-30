@@ -1,3 +1,6 @@
 lion
 cat
 dog
+tiger
+wolf
+
